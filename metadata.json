@@ -1,0 +1,6 @@
+{
+  "name": "AeroSilence ANC Workstation",
+  "description": "Real-time Active Noise Cancellation (ANC) software with adaptive phase inversion, spectral subtraction, acoustic noise profiling, and live audio telemetry.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
